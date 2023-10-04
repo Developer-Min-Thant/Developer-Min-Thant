@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Developer-Min-Thant
 - 👀 I’m interested in developing
-- 🌱 I’m currently learning backend development
+- 🌱 I’m currently learning cloud computing....
 
 <!---
 Developer-Min-Thant/Developer-Min-Thant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
